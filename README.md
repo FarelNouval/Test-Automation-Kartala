@@ -16,7 +16,7 @@ Fitur yang diuji:
 
 ### Install & Setup
 ``bash
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/FarelNouval/Test-Automation-Kartala/tree/main
 cd repo-name
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1   # Windows
